@@ -1,4 +1,4 @@
-# Hi, I'm José Pedro Barbosa 👋
+# Hi, I'm José Barbosa 👋
 
 🎓 Computer Engineering student (3rd year) at the Escola Superior de Tecnologia e Gestão (ESTG)  
 📍 Porto, Portugal  
