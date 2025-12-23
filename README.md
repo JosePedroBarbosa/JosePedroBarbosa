@@ -33,21 +33,40 @@ Throughout my degree, I have worked on several academic projects covering backen
 - SCRUM / Agile
 - Git & GitHub
 
+## 🎓 Featured Academic Projects
+
+### 🌍 Humanitarian Aid Distribution System
+Java-based system for managing and optimizing humanitarian aid distribution.  
+**Tech:** Java, OOP, JSON, APIs  
+🔗 Repository: https://github.com/JosePedroBarbosa/project-humanitarian-aid
+
 ---
 
-## 📌 Featured Academic Projects
+### 🏢 Enterprise Management Software
+Console-based enterprise management system for managing companies, business sectors and analytical reports.  
+**Tech:** C, File I/O, Dynamic Memory, Data Structures  
+🔗 Repository: https://github.com/JosePedroBarbosa/EnterpriseManagementSoftware
 
-- **Service Booking Platform**  
-  Academic service booking platform developed using **.NET, React and Flutter**
+---
 
-- **Restaurant Orders Management System**  
-  Full-stack academic project for managing restaurant orders and users using **Angular and Node.js**
+### 🛠️ Service Booking Platform (Bookly)
+Academic service booking platform connecting service providers and clients.  
+**Tech:** .NET, React, Flutter, SQL  
+🔗 Repository: https://github.com/JosePedroBarbosa/bookly
 
-- **Humanitarian Aid Distribution System**  
-  Java-based system focused on logistics and route planning for humanitarian aid distribution
+---
 
-- **IMF-Simulator**  
-  Academic project focused on data structures and algorithms using **Java**
+### 💪 FitMate — Fitness Mobile Application
+Mobile application focused on fitness tracking and user interaction.  
+**Tech:** Flutter, Mobile Development  
+🔗 Repository: https://github.com/JosePedroBarbosa/fitmate
+
+---
+
+### 🍽️ Restaurant Orders Management System
+Frontend application for managing restaurant orders and workflows.  
+**Tech:** Angular, TypeScript, Frontend Development  
+🔗 Repository: https://github.com/JosePedroBarbosa/restaurant-orders-management-system
 
 ---
 
