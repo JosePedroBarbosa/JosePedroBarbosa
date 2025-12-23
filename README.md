@@ -57,15 +57,15 @@ Academic service booking platform connecting service providers and clients.
 ---
 
 ### 💪 FitMate — Fitness Mobile Application
-Mobile application focused on fitness tracking and user interaction.  
-**Tech:** Flutter, Mobile Development  
+Android mobile application for fitness tracking built with modern Android technologies.  
+**Tech:** Kotlin, Jetpack Compose, MVVM  
 🔗 Repository: https://github.com/JosePedroBarbosa/fitmate
 
 ---
 
 ### 🍽️ Restaurant Orders Management System
-Frontend application for managing restaurant orders and workflows.  
-**Tech:** Angular, TypeScript, Frontend Development  
+Full-stack web application for managing restaurant orders and workflows.  
+**Tech:** Angular, Express.js, MongoDB  
 🔗 Repository: https://github.com/JosePedroBarbosa/restaurant-orders-management-system
 
 ---
