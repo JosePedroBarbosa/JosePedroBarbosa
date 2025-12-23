@@ -1,29 +1,28 @@
-# Hi, I'm José Barbosa 👋
+# Hi, I'm José Barbosa
 
-🎓 Software Engineering student (3rd year) at the Escola Superior de Tecnologia e Gestão (ESTG)  
-📍 Porto, Portugal  
-💼 Actively looking for a **curricular internship** in software development  
+Software Engineering student (3rd year) at the Escola Superior de Tecnologia e Gestão (ESTG)  
+Porto, Portugal  
+Actively looking for a **curricular internship** in software development  
 
-📫 **Contact**
-- LinkedIn: [linkedin.com/in/josepedrobarbosa](https://www.linkedin.com/in/josepedrobarbosa/)
+**Contact**
+- LinkedIn: https://www.linkedin.com/in/josepedrobarbosa/
 - Email: dev.josebarbosa@gmail.com
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I am a final-year Software Engineering student with a strong interest in software development and problem-solving.
 
-Throughout my degree, I have worked on several academic projects covering backend, frontend, mobile development, databases, software testing, and agile methodologies. I enjoy learning new technologies, writing clean code, and collaborating in team environments.
+Throughout my degree, I have worked on several academic projects covering backend, frontend, mobile development, databases, software testing, and agile methodologies. I enjoy learning new technologies, writing clean code, and collaborating effectively in team environments.
 
 ---
 
-## 🛠️ Technologies & Tools
+## Technologies & Tools
 
 ### Programming Languages
-- C, Java, C#
+- C, Java, C#, Kotlin
 - TypeScript, JavaScript
-- Kotlin
 
 ### Frameworks & Technologies
 - .NET, Angular, React
@@ -40,41 +39,41 @@ Throughout my degree, I have worked on several academic projects covering backen
 
 ---
 
-## 🎓 Featured Academic Projects
+## Featured Academic Projects
 
-### 🌍 Humanitarian Aid Distribution System
+### Humanitarian Aid Distribution System
 Java-based system for managing and optimizing humanitarian aid distribution.  
 **Tech:** Java, OOP, JSON, APIs  
-🔗 Repository: https://github.com/JosePedroBarbosa/project-humanitarian-aid
+Repository: https://github.com/JosePedroBarbosa/project-humanitarian-aid
 
 ---
 
-### 🏢 Enterprise Management Software
-Console-based enterprise management system for managing companies, business sectors and analytical reports.  
+### Enterprise Management Software
+Console-based enterprise management system for managing companies, business sectors, and analytical reports.  
 **Tech:** C, File I/O, Dynamic Memory, Data Structures  
-🔗 Repository: https://github.com/JosePedroBarbosa/EnterpriseManagementSoftware
+Repository: https://github.com/JosePedroBarbosa/EnterpriseManagementSoftware
 
 ---
 
-### 🛠️ Service Booking Platform (Bookly)
+### Service Booking Platform (Bookly)
 Academic service booking platform connecting service providers and clients.  
 **Tech:** .NET, React, Flutter, SQL  
-🔗 Repository: https://github.com/JosePedroBarbosa/bookly
+Repository: https://github.com/JosePedroBarbosa/bookly
 
 ---
 
-### 💪 FitMate — Fitness Mobile Application
+### FitMate — Fitness Mobile Application
 Android mobile application for fitness tracking built with modern Android technologies.  
 **Tech:** Kotlin, Jetpack Compose  
-🔗 Repository: https://github.com/JosePedroBarbosa/fitmate
+Repository: https://github.com/JosePedroBarbosa/fitmate
 
 ---
 
-### 🍽️ Restaurant Orders Management System
+### Restaurant Orders Management System
 Full-stack web application for managing restaurant orders and workflows.  
 **Tech:** Angular, Express.js, MongoDB  
-🔗 Repository: https://github.com/JosePedroBarbosa/restaurant-orders-management-system
+Repository: https://github.com/JosePedroBarbosa/restaurant-orders-management-system
 
 ---
 
-⭐ Feel free to explore my repositories and academic projects.
+Feel free to explore my repositories and academic projects.
