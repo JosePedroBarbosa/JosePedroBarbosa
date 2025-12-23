@@ -58,7 +58,7 @@ Academic service booking platform connecting service providers and clients.
 
 ### 💪 FitMate — Fitness Mobile Application
 Android mobile application for fitness tracking built with modern Android technologies.  
-**Tech:** Kotlin, Jetpack Compose, MVVM  
+**Tech:** Kotlin, Jetpack Compose
 🔗 Repository: https://github.com/JosePedroBarbosa/fitmate
 
 ---
