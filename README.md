@@ -2,13 +2,17 @@
 
 🎓 Software Engineering student (3rd year) at the Escola Superior de Tecnologia e Gestão (ESTG)  
 📍 Porto, Portugal  
-💼 Actively looking for a **curricular internship** in software development
+💼 Actively looking for a **curricular internship** in software development  
+
+📫 **Contact**
+- LinkedIn: [linkedin.com/in/josepedrobarbosa](https://www.linkedin.com/in/josepedrobarbosa/)
+- Email: dev.josebarbosa@gmail.com
 
 ---
 
 ## 👨‍💻 About Me
 
-I am a final-year Computer Engineering student with a strong interest in software development and problem-solving.
+I am a final-year Software Engineering student with a strong interest in software development and problem-solving.
 
 Throughout my degree, I have worked on several academic projects covering backend, frontend, mobile development, databases, software testing, and agile methodologies. I enjoy learning new technologies, writing clean code, and collaborating in team environments.
 
@@ -16,22 +20,25 @@ Throughout my degree, I have worked on several academic projects covering backen
 
 ## 🛠️ Technologies & Tools
 
-**Programming Languages**
+### Programming Languages
 - C, Java, C#
 - TypeScript, JavaScript
+- Kotlin
 
-**Frameworks & Technologies**
+### Frameworks & Technologies
 - .NET, Angular, React
-- Node.js
-- Next JS
+- Node.js, Express.js
+- Next.js
 - SQL, MongoDB
 
-**Software Engineering**
+### Software Engineering
 - Object-Oriented Programming
 - REST APIs
 - Software Testing
 - SCRUM / Agile
 - Git & GitHub
+
+---
 
 ## 🎓 Featured Academic Projects
 
@@ -58,7 +65,7 @@ Academic service booking platform connecting service providers and clients.
 
 ### 💪 FitMate — Fitness Mobile Application
 Android mobile application for fitness tracking built with modern Android technologies.  
-**Tech:** Kotlin, Jetpack Compose
+**Tech:** Kotlin, Jetpack Compose  
 🔗 Repository: https://github.com/JosePedroBarbosa/fitmate
 
 ---
@@ -67,13 +74,6 @@ Android mobile application for fitness tracking built with modern Android techno
 Full-stack web application for managing restaurant orders and workflows.  
 **Tech:** Angular, Express.js, MongoDB  
 🔗 Repository: https://github.com/JosePedroBarbosa/restaurant-orders-management-system
-
----
-
-## 📫 Contact
-
-- LinkedIn: [linkedin.com/in/josebarbosa05](https://www.linkedin.com/in/josepedrobarbosa/)
-- Email: dev.josebarbosa@gmail.com
 
 ---
 
