@@ -19,11 +19,9 @@ Throughout my degree, I have worked on several academic projects covering backen
 **Programming Languages**
 - C, Java, C#
 - TypeScript, JavaScript
-- Kotlin, Dart
 
 **Frameworks & Technologies**
 - .NET, Angular, React
-- Flutter
 - Node.js
 - SQL, MongoDB
 
