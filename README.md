@@ -23,7 +23,7 @@ Throughout my degree, I have worked on several academic projects covering backen
 **Frameworks & Technologies**
 - .NET, Angular, React
 - Node.js
-- NextJS
+- Next JS
 - SQL, MongoDB
 
 **Software Engineering**
