@@ -73,7 +73,7 @@ Full-stack web application for managing restaurant orders and workflows.
 ## 📫 Contact
 
 - LinkedIn: [linkedin.com/in/josebarbosa05](https://www.linkedin.com/in/josepedrobarbosa/)
-- GitHub: [github.com/JosePedroBarbosa](https://github.com/JosePedroBarbosa)
+- Email: dev.josebarbosa@gmail.com
 
 ---
 
