@@ -2,8 +2,6 @@
 
 Software Engineering student (3rd year) at the Escola Superior de Tecnologia e Gestão (ESTG) 
 
-Porto, Portugal
-
 **Contact**
 - LinkedIn: https://www.linkedin.com/in/josepedrobarbosa/
 - Email: dev.josebarbosa@gmail.com
