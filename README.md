@@ -1,7 +1,7 @@
 # Hi, I'm José Barbosa
 
-Software Engineering student (3rd year) at the Escola Superior de Tecnologia e Gestão (ESTG)
-  Porto, Portugal
+Software Engineering student (3rd year) at the Escola Superior de Tecnologia e Gestão (ESTG) 
+Porto, Portugal
 
 **Contact**
 - LinkedIn: https://www.linkedin.com/in/josepedrobarbosa/
