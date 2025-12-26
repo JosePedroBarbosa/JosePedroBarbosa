@@ -2,7 +2,6 @@
 
 Software Engineering student (3rd year) at the Escola Superior de Tecnologia e Gestão (ESTG)  
 Porto, Portugal  
-Actively looking for a **curricular internship** in software development  
 
 **Contact**
 - LinkedIn: https://www.linkedin.com/in/josepedrobarbosa/
