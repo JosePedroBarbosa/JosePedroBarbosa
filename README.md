@@ -21,11 +21,11 @@ Throughout my degree, I have worked on several academic projects covering backen
 ## Technologies & Tools
 
 ### Programming Languages
-- C, Java, C#, Kotlin
+- C, Java, C#
 - TypeScript, JavaScript
 
 ### Frameworks & Technologies
-- .NET, Angular, React
+- .NET, React
 - Node.js, Express.js
 - Next.js
 - SQL, MongoDB
