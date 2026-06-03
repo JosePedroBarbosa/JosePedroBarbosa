@@ -19,7 +19,7 @@ Throughout my degree, I have worked on several academic projects covering backen
 ## Technologies & Tools
 
 ### Programming Languages
-- C, Java, C#
+- Java, C#
 - TypeScript, JavaScript
 
 ### Frameworks & Technologies
