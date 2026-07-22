@@ -57,16 +57,6 @@ The system was built around a RAG architecture, reinforced with custom guardrail
 
 ---
 
-## Personal Project
-
-### [Itsloty](https://itsloty.com)
-
-A platform where freelancers and service providers can claim a personalized link, such as `itsloty.com/josebarbosa`, to showcase their services, let clients choose a date and time, and accept payments, all through one link.
-
-**Tech:** Next.js, Node.js
-
----
-
 ## Academic Projects
 
 ### [Bookly — Service Booking Platform](https://github.com/JosePedroBarbosa/bookly)
