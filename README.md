@@ -13,7 +13,7 @@ I hold a Bachelor's degree in Informatics Engineering from the School of Technol
 
 My academic background includes software engineering, system architecture, databases, distributed systems, and artificial intelligence. Throughout my degree, I worked on collaborative projects using Scrum, with a strong focus on software quality, testing, and maintainable code.
 
-Outside academics, I build my own products and enjoy taking ideas from database design through to deployment.
+Outside academics, I build my own products and enjoy taking ideas from software design through to deployment.
 
 I'm currently looking for my first full-time opportunity as a Junior Software Engineer.
 
