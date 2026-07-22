@@ -71,6 +71,12 @@ A full-stack web application for managing restaurant orders and operational work
 
 **Tech:** Angular, Express, MongoDB
 
+### [Wheel Components Inspector](https://github.com/JosePedroBarbosa/wheel-components-inspector)
+
+A computer vision system for detecting wheels, rims, and wheel bolts in images. Two YOLOv8m models were trained and evaluated, with the improved model achieving a mAP@0.5 of 0.8878.
+
+**Tech:** Python, YOLOv8, Roboflow, Streamlit
+
 ### [FitMate — Fitness Mobile App](https://github.com/JosePedroBarbosa/fitmate)
 
 An Android application for fitness tracking built with modern Android development tools.
