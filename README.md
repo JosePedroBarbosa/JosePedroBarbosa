@@ -53,7 +53,7 @@ The system was built around a RAG architecture, reinforced with custom guardrail
 - Adversarial guardrail testing
 - Benchmark-based retrieval and generation evaluation
 
-**Tech:** GPT-4o, LangChain, ChromaDB, Python
+**Tech:** GPT-4o, LangChain, ChromaDB, FastApi, React, Python
 
 ---
 
