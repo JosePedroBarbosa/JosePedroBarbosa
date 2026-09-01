@@ -9,7 +9,7 @@ Junior Software Engineer | Open to new opportunities
 
 ## About Me
 
-I'm José Barbosa, a 21-year-old Informatics Engineering graduate from ESTG, Polytechnic of Porto (P.PORTO), based in Porto.
+I'm José Barbosa, a 21-year-old Informatics Engineering graduate from ESTG, Polytechnic of Porto, based in Porto.
 
 Recently I built PoliTutor as my final graduation project, graded 17/20. It's a Socratic AI tutor for higher education that never gives students the answer: instead it asks questions and offers hints grounded in their own course materials, guiding them until they reach the solution themselves. I designed and built the retrieval-augmented generation pipeline behind it, implemented guardrails to keep the tutor from breaking character and answering directly, and evaluated retrieval and response quality through benchmarks.
 
