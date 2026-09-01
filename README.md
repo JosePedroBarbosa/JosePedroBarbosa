@@ -1,6 +1,6 @@
 # Hi, I'm José Barbosa 👋
 
-Software Engineer | Open to new opportunities
+Junior Software Engineer | Open to new opportunities
 
 [LinkedIn](https://www.linkedin.com/in/josepedrobarbosa/) ·
 [Email](mailto:dev.josebarbosa@gmail.com)
