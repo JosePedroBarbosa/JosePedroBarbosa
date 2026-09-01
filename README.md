@@ -9,13 +9,13 @@ Junior Software Engineer | Open to new opportunities
 
 ## About Me
 
-I studied Informatics Engineering at ESTG, Polytechnic of Porto.
+I'm José Barbosa, a 21-year-old Informatics Engineering graduate from ESTG, Polytechnic of Porto (P.PORTO), based in Porto.
 
-My academic background includes software engineering, system architecture, databases, distributed systems, and artificial intelligence. Throughout my degree, I worked on collaborative projects using Scrum, with a strong focus on software quality, testing, and maintainable code.
+Recently I built PoliTutor as my final graduation project, graded 17/20. It's a Socratic AI tutor for higher education that never gives students the answer: instead it asks questions and offers hints grounded in their own course materials, guiding them until they reach the solution themselves. I designed and built the retrieval-augmented generation pipeline behind it, implemented guardrails to keep the tutor from breaking character and answering directly, and evaluated retrieval and response quality through benchmarks.
 
 Outside academics, I build my own products and enjoy taking ideas from software design through to deployment.
 
-I'm currently looking for my first full-time opportunity as a Junior Software Engineer.
+I'm now looking for my first full-time role as a Junior Software Engineer, where I can contribute to real products and grow alongside an experienced team.
 
 ---
 
