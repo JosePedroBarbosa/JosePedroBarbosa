@@ -9,7 +9,7 @@ Software Engineer | Open to new opportunities
 
 ## About Me
 
-I studied Informatics Engineering at ESTG, Polytechnic of Porto."
+I studied Informatics Engineering at ESTG, Polytechnic of Porto.
 
 My academic background includes software engineering, system architecture, databases, distributed systems, and artificial intelligence. Throughout my degree, I worked on collaborative projects using Scrum, with a strong focus on software quality, testing, and maintainable code.
 
