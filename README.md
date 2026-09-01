@@ -25,7 +25,7 @@ I'm now looking for my first full-time role as a Junior Software Engineer, where
 
 **Backend:** .NET, Node.js, Express
 
-**Frontend:** React, Next.js
+**Frontend:** React
 
 **AI and LLM:** RAG architectures, LangChain, ChromaDB, LLM guardrails
 
