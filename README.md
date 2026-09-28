@@ -37,9 +37,7 @@ I'm now looking for my first full-time role as a Junior Software Engineer, where
 
 ## Featured Project
 
-### PoliTutor — Socratic AI Tutor
-
-### [PoliTutor](https://github.com/JosePedroBarbosa/Poli-Tutor)
+### [PoliTutor — Socratic AI Tutor](https://github.com/JosePedroBarbosa/Poli-Tutor)
 
 **Final degree project developed at ESTG**
 
