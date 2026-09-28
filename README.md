@@ -39,6 +39,8 @@ I'm now looking for my first full-time role as a Junior Software Engineer, where
 
 ### PoliTutor — Socratic AI Tutor
 
+### [PoliTutor]([https://github.com/JosePedroBarbosa/bookly](https://github.com/JosePedroBarbosa/Poli-Tutor))
+
 **Final degree project developed at ESTG**
 
 PoliTutor is a Socratic AI tutor designed to support programming students in higher education. Instead of providing direct solutions, it guides students through questions and contextual hints grounded in real course materials.
